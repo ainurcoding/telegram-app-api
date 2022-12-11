@@ -1,5 +1,5 @@
 
-# mama_recipe_app
+# telegram-app-api
 <div align="center"><img src="https://cdn-icons-png.flaticon.com/512/2899/2899298.png" height="50" width="50"/></div>
 <div align='center'><a href='https://github.com/ainurcoding/telegram-app-fe'> >> Visit Frontend Repository << </a></div>
 
